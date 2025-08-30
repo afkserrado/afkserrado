@@ -64,6 +64,15 @@ Me chamo Anderson Serrado, tenho 29 anos e sou natural de Salvador/BA. Sou gradu
 
 <img 
     align="left" 
+    alt="C"
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icons8.com/icon/40670/c-programming" 
+/>
+
+<img 
+    align="left" 
     alt="html"
     title="html"
     width="30px" 
