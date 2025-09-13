@@ -5,7 +5,7 @@
 Me chamo Anderson Serrado, tenho 29 anos e sou natural de Salvador/BA. Sou graduado em Engenharia Civil pela UFBA (2023) e, atualmente, estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFBA como parte do meu processo de transição de carreira para a área de TI.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/anderson-serrado/">
+    <a href="https://www.linkedin.com/in/anderson-serrado/" target="_blank">
         <img 
             alt="linkedin" 
             title="linkedin profile" 
