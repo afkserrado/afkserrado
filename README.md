@@ -103,6 +103,9 @@ Me chamo Anderson Serrado, tenho 29 anos e sou natural de Salvador/BA. Sou gradu
 <br/>
 <br/>
 
+### 💻 Projetos Acadêmicos
+[Atalhos](https://github.com/afkserrado/Projetos-academicos/blob/main/README.md)
+
 ### 📊 Estatísticas
 
 <p>
