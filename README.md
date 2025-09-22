@@ -2,10 +2,13 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas - IFBA`**
 
+🇧🇷 **Português**
 Me chamo Anderson Serrado, tenho 29 anos e sou natural de Salvador/BA. Sou graduado em Engenharia Civil na UFBA (2023) e, atualmente, estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFBA como parte do meu processo de transição de carreira para a área de TI.
 
+🇬🇧 **English** 
 My name is Anderson Serrado, I'm 29 years old and I'm from Salvador, Brazil. I have a bachelor's degree in Civil Engineering from UFBA (2023), and I am currently studying Systems Analysis and Development at IFBA as part of my career transition to the IT sector.
 
+🇪🇸 **Español**
 Me llamo Anderson Serrado, tengo 29 años y soy de Salvador, Brasil. Tengo un título en Ingeniería Civil en la UFBA (2023) y, actualmente, estudio Análisis y Desarrollo de Sistemas en el IFBA como parte de mi transición de carrera al sector de TI.
 
 <p align="left">
