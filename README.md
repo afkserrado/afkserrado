@@ -2,13 +2,14 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas - IFBA`**
 
-<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f7.svg" width="25"/> <br>
+<!-- <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f7.svg" width="25"/> <br> -->
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/5f40463ce1d8731f4e22dcb8acbc715b01573c54/flags/1x1/br.svg" width="25"/> <br>
 Me chamo Anderson Serrado, tenho 29 anos e sou natural de Salvador/BA. Sou graduado em Engenharia Civil na UFBA (2023) e, atualmente, estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFBA como parte do meu processo de transição de carreira para a área de TI.
 
-<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" width="25"/> <br>
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/5f40463ce1d8731f4e22dcb8acbc715b01573c54/flags/1x1/gb.svg" width="25"/> <br>
 My name is Anderson Serrado, I'm 29 years old and I'm from Salvador, Brazil. I have a bachelor's degree in Civil Engineering from UFBA (2023), and I am currently studying Systems Analysis and Development at IFBA as part of my career transition to the IT sector.
 
-<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg" width="25"/> <br> 
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/5f40463ce1d8731f4e22dcb8acbc715b01573c54/flags/1x1/es.svg" width="25"/> <br> 
 Me llamo Anderson Serrado, tengo 29 años y soy de Salvador, Brasil. Tengo un título en Ingeniería Civil en la UFBA (2023) y, actualmente, estudio Análisis y Desarrollo de Sistemas en el IFBA como parte de mi transición de carrera al sector de TI.
 
 <p align="left">
