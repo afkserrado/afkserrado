@@ -92,7 +92,7 @@
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 <img 
@@ -154,13 +154,15 @@
 
 ### 💻 Projetos
 
+- [**Sistema de locação de veículos:**](https://github.com/afkserrado/IFBA/tree/main/INF008%20-%20POO%20(Java)/Trabalho%20final) sistema de locação de veículos em Java/JavaFX, com arquitetura microkernel e plug-ins carregados dinamicamente via JAR, integrado a um banco de dados MariaDB executando em Docker (com persistência em volume). O projeto é compilado/executado com Maven e permite adicionar novas funcionalidades por plugins sem recompilar toda a aplicação.. <br/>
+
 - [**Desenvolvimento de pipeline ETL com Python para extração automatizada de dados de licitações:**](https://github.com/afkserrado/IFBA/blob/main/INF032-Codes/Trabalho-Final.py) extrai informações estruturadas de documentos .docx dispersos em múltiplas pastas, transforma e padroniza os dados utilizando Pandas, e carrega em planilhas Excel formatadas, com tratamento de erros e sistema de logs. <br/>
 
 - [**Sistema de gestão acadêmica em C:**](https://github.com/afkserrado/IFBA/blob/main/INF029-Codes/Projeto_Escola.c) aplicação console com CRUD completo para cadastro de alunos, professores e disciplinas, validação de dados (CPF, datas), ordenação e controle de matrículas. <br/>
 
 [Ver todos os projetos](https://github.com/afkserrado/Projetos-academicos/blob/main/README.md)
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
 <p>
   <img 
@@ -178,3 +180,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkserrado&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+-->
